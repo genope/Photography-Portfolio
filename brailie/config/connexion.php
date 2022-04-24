@@ -1,6 +1,6 @@
 <?php
 try{
-    $host="mysql:host=localhost;dbname=databasename";
+    $host="mysql:host=localhost;dbname=photography";
     $user="root";
     $password="";
     $cnx=new PDO ($host,$user,$password);
